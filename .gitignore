@@ -1,0 +1,21 @@
+# CMake build directories
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Qt
+*.user
+*.pro.user
+debug/
+release/
+Makefile
+*.o
+
+# SQLite database files if any created locally during runs
+*.db
+*.sqlite
+
+# OS specific files
+.DS_Store
+Thumbs.db
